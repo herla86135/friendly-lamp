@@ -1,1 +1,1 @@
-{"url": "https://cdn.rawgit.com/herla86135/friendly-lamp/e7d3be826adf7d39eb74ca23afe7cc8d5d9666da/script.js"}
+{"url": "https://cdn.rawgit.com/herla86135/friendly-lamp/83350dab96e8b00d6eb29d1d2409114a3f000825/script.js"}
