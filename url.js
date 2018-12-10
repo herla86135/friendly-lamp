@@ -1,1 +1,1 @@
-{"url": "https://cdn.jsdelivr.net/gh/herla86135/friendly-lamp@83350dab96e8b00d6eb29d1d2409114a3f000825/script.js"}
+{"url": "https://cdn.jsdelivr.net/gh/herla86135/friendly-lamp@3e7381c5913a256d3fd55708decf89bcb62d911e/script.js"}
